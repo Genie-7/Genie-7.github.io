@@ -1,1 +1,1 @@
-# Genie-7.github.io
+permalink: /index.html
